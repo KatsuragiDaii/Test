@@ -1,0 +1,26 @@
+{
+  "name": "my-clothing-store",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.0",
+    "@supabase/supabase-js": "^2.106.2",
+    "@tailwindcss/postcss": "^4.3.0",
+    "autoprefixer": "^10.5.0",
+    "lucide-react": "^1.16.0",
+    "midtrans-client": "^1.4.3",
+    "next": "^16.2.6",
+    "postcss": "^8.5.15",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwindcss": "^4.3.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
+  }
+}
